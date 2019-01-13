@@ -8,7 +8,7 @@ layout: default
 image: /assets/images/about.jpg
 ---
 
-Mann Robotics was first started in the 2014-2015 season: VEX Robotics Competition Skyrise, with only a single team of a few students. Since then, we have grown enormously in both membership and success. Ever since StarStruck (2016-2017) we've had 100% qualification to the State Tournament, even sending 3796C, our all-girls team to the 2018 VEX Robotics World Championship in Louisville, KY, where they recieved the Innovate Award
+Mann Robotics was first started in the 2014-2015 season: VEX Robotics Competition Skyrise, with only a single team of a few students. Since then, we have grown enormously in both membership and success. Ever since StarStruck (2016-2017), we've had 100% qualification to the State Tournament, even sending 3796C, our all-girls team, to the 2018 VEX Robotics World Championship in Louisville, KY, where they recieved a divisional Innovate Award.
 
 
 <figure>
@@ -40,6 +40,6 @@ Etiam lobortis porta urna ut blandit. Maecenas sit amet ipsum et nisl convallis 
 Graduates: Ben Godfrey, Francis Villeaneuva, Lara Chunko, Lachelle Byrd
 
 ### Turning Point (2018-2019)
-Aenean lacinia dapibus nulla vitae dignissim. Donec tempor nunc eget turpis condimentum sagittis. Vivamus non iaculis metus, non hendrerit sem. Cras lorem elit, euismod vitae metus vel, varius feugiat erat. Vivamus imperdiet ut lectus vel lacinia. Maecenas aliquam, sapien eu facilisis dapibus, urna justo faucibus mi, in iaculis erat elit ut lectus. Proin vestibulum odio in eros varius aliquet. Nulla in orci pretium, maximus odio quis, scelerisque tortor. Aliquam vel accumsan augue. Nulla ultrices aliquet odio interdum convallis. Vestibulum dignissim non lorem id vehicula. Proin augue nulla, fermentum ac arcu id, rhoncus egestas dui
+We founded our newest team, 3796E, named Caution! Student Drivers. So far, we have hosted and attended one competition, where 3796E won Tournament Champion with 11872A Tech Tigers, 3796C won Design and Sportsmanship, and 3796B won Judges.  
 
 Graduates: Garrett Knight, Aiden Abed
