@@ -35,7 +35,7 @@ We got another new team in StarStruck, 3796C Don't Forget to Breathe (then calle
 Graduates: Patrick McGuire, Kenzie Abed, Jordan Houle
 
 ### In The Zone (2017-2018)
-Etiam lobortis porta urna ut blandit. Maecenas sit amet ipsum et nisl convallis vestibulum. Donec dolor elit, lobortis ac mattis id, interdum id velit. Cras id suscipit enim. Donec risus erat, ullamcorper sit amet bibendum et, convallis vel augue. Aenean tincidunt lorem purus, nec tincidunt elit tempor sed. Mauris sagittis, nunc sodales interdum finibus, sapien justo scelerisque orci, vel ultricies nisi tortor sed diam. Sed gravida sodales odio, at semper ligula. Sed pretium quis odio ultricies ultricies. Phasellus venenatis laoreet tellus, sit amet vehicula lacus pellentesque ut. Sed et quam mollis, iaculis turpis venenatis, sollicitudin magna
+At our hosted competition, 3796C won the Design Award, the first award any Mann Robotics team had ever received. Our good fortune didn't stop there; at the Clover State Qualifier, 3796A won Design, 3796B won Tournament Champion with 52455A Eagle Robotics and 67864D E404, and 3796C won Excellence, qualifying every team for the State Competition. At the State Competition, 3796C won the Design Award, qualifying them for the 2018 VEX World Championship. At Worlds, 3796C ended the season with a divisional Innovate Award.
 
 Graduates: Ben Godfrey, Francis Villeaneuva, Lara Chunko, Lachelle Byrd
 
